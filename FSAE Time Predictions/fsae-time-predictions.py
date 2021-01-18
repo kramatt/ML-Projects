@@ -5,5 +5,7 @@ from sklearn.model_selection import KFold
 from sklearn.model_selection import cross_val_score
 from sklearn.linear_model import LogisticRegression
 
-file = 'Reduced Data/fsae-accel-skidpad.csv'
+file = 'Reduced Data/fsae-accel-skidpad-times.csv'
 dataframe = pd.read_csv(file)
+print(dataframe.head())
+print(dataframe.describe())

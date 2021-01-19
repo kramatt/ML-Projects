@@ -17,7 +17,7 @@ in the Acceleration and Skidpad events.
 
 This model may be useful to teams in the initial design phase of their competition cycle. The vehicle characteristics that are considered by this model are deeply-rooted
 in a vehicle's design, and must be chosen early in the design process. Making an informed decision about these characteristics can be difficult,
-especially for new teams who have limited experience and validation data from previous years.
+especially for new teams who have limited experience and limited validation data from previous years.
 
 It may also be useful to experienced teams who would like to explore the effects of changing key aspects of their design philosophy. Each team has a different
 (and constantly changing) set of priorities that they believe will give them the best competition result. This model may be used to see how a team's performance

@@ -1,0 +1,569 @@
+2019,MIS,1,Universitat Stuttgart,DE,4,600,173.7,383,4.313,5.030
+2019,MIS,2,Graz Technical Univ,AT,1,510,155.1,342,4.261,5.085
+2019,MIS,5,Ecole De Technologie Superieure,CA,1,450,147.4,325,4.329,4.865
+2019,MIS,6,Univ of Akron,US,1,450,169.2,373,5.345,5.412
+2019,MIS,7,Carleton Univ,CA,1,450,162.4,358,4.716,4.921
+2019,MIS,8,Univ of Wisconsin - Madison,US,1,450,164.7,363,5.952,5.577
+2019,MIS,9,Univ of Michigan - Ann Arbor,US,4,600,196.4,433,4.109,5.412
+2019,MIS,10,AGH Univ of Science and Technology,PL,4,600,193.7,427,4.247,5.578
+2019,MIS,11,Michigan State Univ,US,4,600,193.7,427,4.307,5.685
+2019,MIS,12,Purdue Univ - W Lafayette,US,4,600,206.4,455,4.879,5.468
+2019,MIS,14,Polytechnique Montréal,CA,1,450,186.0,410,4.910,5.358
+2019,MIS,16,Kookmin Univ,KR,4,600,210.0,463,4.478,5.195
+2019,MIS,17,Bradley Univ,US,2,470,231.8,511,7.938,7.981
+2019,MIS,18,Univ of Alabama - Tuscaloosa,US,4,600,201.8,445,4.586,5.412
+2019,MIS,19,North Carolina State Univ - Raleigh,US,4,600,211.4,466,4.454,5.250
+2019,MIS,21,Univ of Florida,US,4,600,215.0,474,4.512,5.466
+2019,MIS,23,Rensselaer Polytechnic Inst,US,4,600,196.4,433,4.330,5.191
+2019,MIS,26,Purdue Univ - Northwest,US,4,600,206.8,456,8.995,6.451
+2019,MIS,29,Univ of Cincinnati,US,1,475,191.0,421,5.043,5.146
+2019,MIS,32,Pellissippi State Community College,US,4,600,262.2,578,10.072,5.576
+2019,MIS,33,Oregon State Univ,US,1,450,146.5,323,4.605,5.001
+2019,MIS,34,Univ of Central Florida,US,4,630,212.3,468,4.640,5.585
+2019,MIS,35,Kansas State Univ,US,3,675,249.0,549,4.528,5.521
+2019,MIS,36,Missouri University of Science and Tech,US,4,600,209.6,462,5.069,5.303
+2019,MIS,37,Univ of Illinois - Urbana Champaign,US,4,600,193.2,426,4.326,5.466
+2019,MIS,38,Brown Univ,US,4,600,198.7,438,4.472,5.523
+2019,MIS,39,Univ of Missouri,US,4,600,213.6,471,4.705,5.303
+2019,MIS,40,Clemson Univ,US,4,600,221.8,489,4.550,5.191
+2019,MIS,41,Grand Valley State Univ,US,4,600,248.1,547,5.733,5.578
+2019,MIS,42,Univ of Kentucky,US,4,600,237.7,524,4.769,5.958
+2019,MIS,43,Minnesota State University - Mankato,US,1,450,170.1,375,5.341,5.468
+2019,MIS,46,San Jose State University,US,3,675,197.3,435,4.552,5.085
+2019,MIS,47,Ryerson Univ,CA,4,600,205.0,452,4.512,5.386
+2019,MIS,51,Universidad Simon Bolivar,VE,4,600,226.3,499,5.284,6.013
+2019,MIS,52,Western Michigan Univ,US,4,600,215.0,474,4.558,5.521
+2019,MIS,54,Michigan Tech Univ,US,2,500,228.2,503,5.093,5.248
+2019,MIS,55,Rutgers Univ,US,1,450,166.9,368,5.156,5.465
+2019,MIS,56,National Univ of Singapore,SQ,4,600,212.3,468,4.290,5.138
+2019,MIS,62,Univ of Minnesota - Twin Cities,US,4,600,203.2,448,4.486,5.303
+2019,MIS,63,Washington Univ - St Louis,US,4,600,195.0,430,5.230,5.415
+2019,MIS,64,Univ of Maryland - College Park,US,4,600,213.6,471,5.450,5.849
+2019,MIS,65,Lehigh Univ,US,1,450,151.0,333,4.964,5.468
+2019,MIS,66,Univ of Waterloo,CA,4,600,208.7,460,4.645,5.629
+2019,MIS,67,Univ of Guelph,CA,4,600,203.7,449,4.784,5.739
+2019,MIS,68,Penn State Univ - University Park,US,4,600,186.4,411,5.330,5.795
+2019,MIS,69,Univ of Connecticut,US,4,600,204.6,451,4.280,5.411
+2019,MIS,70,Penn State Univ - Harrisburg,US,4,600,243.1,536,4.433,5.795
+2019,MIS,71,Univ of Puerto Rico-Mayaquez,US,4,600,218.6,482,4.666,5.421
+2019,MIS,73,Louisiana State Univ,US,4,600,195.0,430,4.495,5.428
+2019,MIS,75,Old Dominion Univ,US,4,600,222.7,491,5.178,5.795
+2019,MIS,76,Hope College,US,4,600,271.7,599,5.249,5.420
+2019,MIS,77,Oakland University,US,4,600,214.5,473,4.771,5.576
+2019,MIS,78,Temple Univ,US,4,600,205.0,452,4.918,6.068
+2019,MIS,79,Georgia Southern Univ,US,4,600,198.2,437,4.473,5.302
+2019,MIS,80,Virginia Tech,US,1,450,171.0,377,4.956,5.325
+2019,MIS,81,Northwestern Univ,US,4,600,207.7,458,4.508,5.740
+2019,MIS,83,Univ of British Columbia - Okanagan,CA,4,600,256.3,565,5.210,5.794
+2019,MIS,84,Univ of Toronto,CA,1,450,165.1,364,5.239,5.467
+2019,MIS,85,Wroclaw University of Technology,PL,4,600,188.2,415,4.352,5.301
+2019,MIS,86,Wayne State Univ,US,4,600,197.3,435,4.459,5.303
+2019,MIS,88,The Ohio State University,US,4,600,200.0,441,4.626,5.631
+2019,MIS,89,Tennessee Tech Univ,US,2,590,156.5,345,4.971,5.633
+2019,MIS,90,Coburg University of Applied Sciences,DE,4,600,181.9,401,4.146,4.975
+2019,MIS,91,Georgia Institute of Technology,US,4,600,217.3,479,4.791,5.521
+2019,MIS,92,Univ of Victoria,CA,4,600,211.4,466,4.972,5.303
+2019,MIS,94,Saginaw Valley State Univ,US,4,600,204.6,451,4.413,5.303
+2019,MIS,99,York College of Pennsylvania,US,2,450,182.8,403,5.083,5.849
+2019,MIS,100,Clarkson University,US,4,630,219.1,483,5.143,5.740
+2019,MIS,101,Mississippi State Univ,US,2,470,210.0,463,18.457,8.308
+2019,MIS,102,Lawrence Technological Univ,US,4,600,249.0,549,4.553,5.960
+2019,MIS,105,Worcester Polytechnic Inst,US,1,450,188.7,416,5.080,5.794
+2019,MIS,107,Univ of South Florida,US,4,600,198.2,437,4.332,5.367
+2019,MIS,108,Colorado Mesa University,US,4,600,225.9,498,5.735,6.013
+2019,MIS,109,US Air Force Academy,US,1,450,210.5,464,5.447,5.693
+2019,MIS,111,Lakehead Univ,CA,4,600,247.2,545,5.098,6.123
+2019,MIS,113,Dalhousie Univ,CA,1,450,167.8,370,5.187,5.576
+2019,MIS,114,Binghamton Univ,US,4,600,299.8,661,5.738,6.028
+2019,MIS,115,Univ of British Columbia,CA,4,600,204.6,451,4.421,5.411
+2019,MIS,117,Columbia Univ,US,4,600,226.8,500,5.268,5.685
+2019,MIS,119,Duke Univ,US,2,690,191.4,422,5.231,5.305
+2019,MIS,122,Florida Atlantic Univ,US,4,600,222.7,491,4.676,5.795
+2019,MIS,123,Villanova Univ,US,4,600,192.8,425,4.265,5.522
+2019,MIS,124,Univ of Nebraska - Lincoln,US,4,635,210.5,464,4.739,5.584
+2019,MIS,125,South Dakota State Univ,US,4,600,211.8,467,5.255,6.015
+2019,MIS,126,Univ of Kansas - Lawrence,US,4,600,210.9,465,4.646,5.852
+2019,MIS,132,Univ of Pittsburgh - Pittsburgh,US,4,600,212.7,469,5.389,5.358
+2019,MIS,139,CEFET-MG,BR,4,600,209.1,461,4.697,5.303
+2018,MIS,1,Universitat Stuttgart,DE,4,600,181.4,400,4.803,5.580
+2018,MIS,2,Oregon State Univ,US,1,450,139.3,307,4.435,4.943
+2018,MIS,3,Graz Technical Univ,AT,1,510,156.0,344,5.084,5.305
+2018,MIS,5,Univ of Michigan - Ann Arbor,US,4,600,190.5,420,5.079,5.430
+2018,MIS,6,San Jose State University,US,3,675,198.7,438,5.075,6.398
+2018,MIS,7,Univ of Minnesota - Twin Cities,US,4,600,211.8,467,5.013,5.457
+2018,MIS,8,Cornell Univ,US,4,600,185.5,409,4.678,5.471
+2018,MIS,9,Rochester Institute of Technology,US,1,450,156.5,345,4.836,5.961
+2018,MIS,10,Univ of Wisconsin - Madison,US,1,450,155.6,343,4.911,5.907
+2018,MIS,11,Colorado Mesa University,US,4,600,220.0,485,5.991,6.790
+2018,MIS,15,Univ of Evansville,US,1,570,198.7,438,6.455,6.071
+2018,MIS,16,Michigan State Univ,US,4,600,188.2,415,4.757,5.761
+2018,MIS,18,Ecole De Technologie Superieure,CA,1,450,147.0,324,4.634,5.797
+2018,MIS,20,Ryerson Univ,US,4,600,205.5,453,5.551,6.617
+2018,MIS,21,Rensselaer Polytechnic Inst,US,4,600,198.7,438,4.876,5.913
+2018,MIS,25,Lehigh Univ,US,1,450,163.7,361,5.366,6.193
+2018,MIS,26,Univ of Toronto,CA,1,450,178.7,394,5.663,6.344
+2018,MIS,29,York College of Pennsylvania,US,2,450,168.7,372,5.567,5.868
+2018,MIS,30,Michigan Tech Univ,US,2,450,191.4,422,4.780,5.905
+2018,MIS,31,Auburn Univ,US,4,600,174.2,384,5.340,5.690
+2018,MIS,32,Grand Valley State Univ,US,4,600,235.0,518,5.326,6.038
+2018,MIS,34,Univ of Missouri,US,4,600,202.3,446,4.549,5.578
+2018,MIS,36,Louisiana State Univ,US,4,600,186.9,412,4.387,6.124
+2018,MIS,37,Univ of Illinois - Urbana Champaign,US,4,600,205.5,453,5.039,6.726
+2018,MIS,38,Univ of Central Florida,US,4,635,212.7,469,5.319,6.455
+2018,MIS,39,Univ of Toledo,US,1,450,180.1,397,5.785,5.523
+2018,MIS,40,Washington Univ - St Louis,US,4,600,208.7,460,5.231,6.182
+2018,MIS,41,Penn State Univ - University Park,US,4,600,196.0,432,4.677,5.730
+2018,MIS,42,Brown Univ,US,4,600,206.4,455,4.560,6.678
+2018,MIS,43,US Air Force Academy,US,1,450,216.4,477,6.209,6.637
+2018,MIS,45,Univ of Maryland - College Park,US,4,600,209.6,462,8.684,7.580
+2018,MIS,46,Universidad Simon Bolivar,VE,4,600,219.5,484,5.012,6.506
+2018,MIS,47,Lawrence Technological Univ,US,4,600,238.6,526,5.289,6.780
+2018,MIS,48,Georgia Institute of Technology,US,4,600,217.3,479,5.037,6.070
+2018,MIS,49,Carleton Univ,CA,1,450,151.0,333,4.990,5.438
+2018,MIS,50,Clarkson University,US,4,635,230.9,509,5.231,6.124
+2018,MIS,52,Virginia Tech,US,1,450,163.3,360,5.219,5.962
+2018,MIS,53,Georgia Southern Univ,US,4,600,203.7,449,4.541,6.290
+2018,MIS,54,Univ of Guelph,CA,4,600,205.5,453,4.630,5.955
+2018,MIS,55,Western University,CA,4,600,217.7,480,5.336,6.182
+2018,MIS,57,Florida International Univ,US,1,475,176.9,390,5.727,6.616
+2018,MIS,58,Univ of British Columbia,CA,4,600,203.2,448,4.477,5.633
+2018,MIS,59,Kookmin Univ,KR,4,600,205.0,452,4.365,6.288
+2018,MIS,60,US Naval Academy,US,2,500,220.4,486,4.773,5.852
+2018,MIS,62,North Carolina State Univ - Raleigh,US,4,600,209.6,462,5.566,6.179
+2018,MIS,63,Univ of Hartford,US,1,450,178.3,393,5.767,6.398
+2018,MIS,64,Polytechnique Montréal,CA,1,450,174.2,384,4.649,5.326
+2018,MIS,66,Florida Atlantic Univ,US,4,600,216.4,477,5.473,6.353
+2018,MIS,67,Univ of Connecticut,US,4,600,201.8,445,4.372,5.689
+2018,MIS,69,Univ of Saskatchewan,CA,4,600,237.7,524,5.190,5.797
+2018,MIS,70,St Cloud State Univ,US,2,650,232.7,513,5.378,6.837
+2018,MIS,71,Univ of Alabama - Tuscaloosa,US,4,600,179.6,396,4.747,5.907
+2018,MIS,72,Wayne State Univ,US,4,600,199.6,440,4.548,6.073
+2018,MIS,73,Univ of Akron,US,1,450,174.2,384,5.118,5.796
+2018,MIS,75,Universidad Politecnica de Valencia,ES,4,600,204.1,450,4.849,5.321
+2018,MIS,76,Universite de Sherbrooke,CA,2,500,196.9,434,5.218,7.447
+2018,MIS,77,Univ of Michigan - Dearborn,US,2,500,200.9,443,5.561,6.400
+2018,MIS,78,Embry-Riddle Aero Univ - Daytona Beach,US,4,600,218.6,482,4.701,6.400
+2018,MIS,79,Univ of North Carolina - Charlotte,US,1,510,225.4,497,5.062,6.238
+2018,MIS,80,National Univ of Singapore,SG,4,600,202.8,447,4.412,5.743
+2018,MIS,82,Minnesota State University - Mankato,US,1,450,174.6,385,5.482,7.110
+2018,MIS,84,Worcester Polytechnic Inst,US,1,450,183.7,405,5.337,5.675
+2018,MIS,85,Texas Tech Univ,US,1,650,200.0,441,7.802,7.200
+2018,MIS,86,California State Poly Univ - Pomona,US,4,600,201.4,444,4.350,5.698
+2018,MIS,87,Washington State Univ,US,4,600,235.9,520,7.487,6.367
+2018,MIS,88,Cegep du Vieux - Montreal,CA,4,600,198.2,437,4.732,6.343
+2018,MIS,91,Univ of North Florida,US,4,600,210.9,465,5.138,6.235
+2018,MIS,92,Univ of Cincinnati,US,1,475,173.3,382,5.078,6.155
+2018,MIS,94,Ferris State University,US,4,600,234.5,517,5.787,6.398
+2018,MIS,98,Purdue Univ - W Lafayette,US,4,600,197.8,436,5.235,5.743
+2018,MIS,99,Villanova Univ,US,4,600,192.8,425,4.439,5.739
+2018,MIS,101,Central Michigan Univ,US,4,600,227.7,502,5.345,5.873
+2018,MIS,102,Technical Univ of Munich,DE,1,510,152.4,336,5.105,5.588
+2018,MIS,103,Universite Du Quebec-Chicoutimi,CA,2,500,224.5,495,6.913,6.070
+2018,MIS,104,Saginaw Valley State Univ,US,4,600,204.6,451,4.935,5.967
+2018,MIS,106,Mississippi State Univ,US,4,600,260.8,575,6.897,7.373
+2018,MIS,107,Rutgers Univ,US,1,450,184.6,407,4.947,5.686
+2018,MIS,108,Northwestern Univ,US,4,600,212.3,468,5.884,8.423
+2018,MIS,109,AGH Univ of Science and Technology,PL,4,600,201.8,445,4.762,5.438
+2018,MIS,111,Duke Univ,US,4,600,187.8,414,6.490,6.124
+2018,MIS,112,Western Michigan Univ,US,4,600,221.8,489,6.214,6.943
+2018,MIS,114,Bialystok University of Technology,PL,4,600,197.3,435,4.831,5.741
+2018,MIS,115,Univ of Victoria,CA,4,600,224.5,495,4.811,6.250
+2018,MIS,117,Penn State Univ - Harrisburg,US,4,600,239.5,528,4.745,6.016
+2018,MIS,118,Alabama A & M Univ,US,4,600,230.0,507,5.417,6.898
+2018,MIS,121,The Ohio State University,US,4,600,189.6,418,4.806,6.726
+2018,MIS,122,Univ of Waterloo,US,4,600,218.6,482,4.653,5.907
+2018,MIS,124,Temple Univ,US,4,600,217.3,479,5.407,6.292
+2018,MIS,126,Univ of Nebraska - Lincoln,US,4,635,211.4,466,5.230,6.072
+2018,MIS,128,South Dakota State Univ,US,4,600,223.2,492,5.941,7.646
+2018,MIS,129,Missouri University of Science and Tech,US,4,600,202.8,447,4.355,5.525
+2018,MIS,135,Univ of South Florida,US,4,600,210.9,465,4.988,6.197
+2018,MIS,136,Faculdade de Engenharia de Sorocaba,BR,4,600,207.7,458,4.958,6.126
+2017,MIS,1,Universitat Stuttgart,GER,4,600,185,408,4.407,5.053
+2017,MIS,2,Graz Technical Univ,AUT,1,510,156,345,4.535,4.975
+2017,MIS,3,U A S Graz,AUT,2,600,217,478,4.427,5.044
+2017,MIS,4,Oregon State Univ,USA,1,450,134,296,4.310,4.814
+2017,MIS,5,Michigan State Univ,USA,4,600,186,411,4.138,5.083
+2017,MIS,6,Univ of Wisconsin - Madison,USA,1,450,164,362,4.593,5.208
+2017,MIS,7,Missouri University of Science and Tech,USA,4,600,192,424,4.368,4.966
+2017,MIS,9,Univ of Florida,USA,4,600,201,444,4.256,5.278
+2017,MIS,11,Universidade de Sao Paulo,BRA,1,450,210,462,5.104,5.210
+2017,MIS,13,Technical Univ of Munich,GER,1,560,160,353,4.578,4.966
+2017,MIS,14,Florida Atlantic Univ,USA,4,600,217,478,4.529,5.758
+2017,MIS,15,Univ of Alabama - Tuscaloosa,USA,4,600,187,412,4.247,5.732
+2017,MIS,16,San Jose State University,USA,3,675,197,434,4.156,5.085
+2017,MIS,19,Mississippi State Univ,USA,4,600,236,520,5.088,7.289
+2017,MIS,20,Minnesota State University - Mankato,USA,1,450,195,429,4.957,5.299
+2017,MIS,21,Brown Univ,USA,4,600,201,443,4.263,6.088
+2017,MIS,22,Villanova Univ,USA,4,600,205,451,4.248,5.413
+2017,MIS,23,Univ of Missouri,USA,4,600,230,508,4.410,5.453
+2017,MIS,24,Purdue Univ - Northwest,USA,4,600,263,580,7.661,6.311
+2017,MIS,25,Michigan Tech Univ,USA,2,500,195,429,4.607,5.584
+2017,MIS,27,South Dakota School of Mines & Tech,USA,1,450,202,446,5.395,5.874
+2017,MIS,29,Washington Univ - St Louis,USA,4,600,215,474,4.457,5.750
+2017,MIS,30,Lehigh Univ,USA,1,450,182,401,8.142,6.240
+2017,MIS,31,Univ of Louisiana - Lafayette,USA,4,600,240,530,6.523,6.195
+2017,MIS,32,Louisiana State Univ,USA,4,600,209,461,4.609,5.385
+2017,MIS,33,Univ of Maryland - College Park,USA,4,600,203,447,4.885,5.647
+2017,MIS,34,Grand Valley State Univ,USA,4,600,258,569,4.905,5.935
+2017,MIS,35,York College of Pennsylvania,USA,2,450,193,425,5.383,5.739
+2017,MIS,37,Univ of British Columbia,CAN,4,600,203,447,4.316,5.214
+2017,MIS,38,Rensselaer Polytechnic Inst,USA,4,600,191,421,4.679,5.627
+2017,MIS,39,Western Michigan Univ,USA,4,636,210,464,4.591,5.587
+2017,MIS,40,Univ of North Florida,USA,4,600,215,474,4.853,5.398
+2017,MIS,41,Lawrence Technological Univ,USA,4,600,233,513,4.756,5.462
+2017,MIS,42,Western University,CAN,4,600,225,495,4.743,5.300
+2017,MIS,44,Univ of Guelph,CAN,4,600,219,482,4.778,5.853
+2017,MIS,46,US Naval Academy,USA,2,500,200,441,4.581,5.869
+2017,MIS,47,National Univ of Singapore,SIN,4,600,209,461,4.181,5.193
+2017,MIS,48,Univ of Connecticut,USA,4,600,215,474,4.382,5.434
+2017,MIS,49,Univ of Illinois - Urbana Champaign,USA,4,600,197,434,4.241,5.087
+2017,MIS,50,Rutgers Univ,USA,1,450,186,411,4.899,5.339
+2017,MIS,51,Carleton Univ,CAN,1,450,163,360,4.477,5.050
+2017,MIS,52,Univ of Minnesota-Duluth,USA,1,570,202,445,5.106,5.638
+2017,MIS,54,Univ of Kansas - Lawrence,USA,4,600,207,456,4.467,5.605
+2017,MIS,55,Tennessee Tech Univ,USA,2,700,203,447,5.738,5.411
+2017,MIS,57,Univ of Victoria,CAN,4,600,219,483,4.644,5.309
+2017,MIS,58,Universite de Sherbrooke,CAN,2,500,203,447,4.619,5.651
+2017,MIS,59,Purdue Univ - W Lafayette,USA,4,600,224,493,4.490,5.734
+2017,MIS,60,The Ohio State University,USA,4,600,203,447,4.431,5.085
+2017,MIS,62,Cooper Union,USA,4,600,222,490,4.812,6.436
+2017,MIS,65,Univ of Akron,USA,1,450,170,375,4.605,5.389
+2017,MIS,67,Rochester Institute of Technology,USA,1,450,166,366,4.521,4.996
+2017,MIS,69,Univ of Pittsburgh - Pittsburgh,USA,4,600,220,486,4.622,5.300
+2017,MIS,71,Temple Univ,USA,4,600,219,483,4.775,6.361
+2017,MIS,72,Saginaw Valley State Univ,USA,4,600,204,449,4.163,5.218
+2017,MIS,73,Embry-Riddle Aero Univ - Daytona Beach,USA,4,600,231,509,5.215,5.531
+2017,MIS,76,Univ of Hartford,USA,1,450,182,401,5.397,5.512
+2017,MIS,77,Rose Hulman Inst of Tech,USA,1,450,166,367,4.848,5.668
+2017,MIS,78,Polytechnique Montréal,CAN,1,450,178,392,4.793,5.304
+2017,MIS,79,Univ of New Hampshire,USA,1,450,168,371,4.968,5.555
+2017,MIS,80,Ryerson Univ,CAN,4,600,217,479,4.736,5.583
+2017,MIS,81,Virginia Tech,USA,1,450,166,365,4.774,5.138
+2017,MIS,82,Univ of Cincinnati,USA,1,480,180,396,4.758,5.300
+2017,MIS,83,Kookmin Univ,KOR,4,600,217,478,4.342,5.050
+2017,MIS,84,Univ of Toronto,CAN,1,450,171,378,4.774,5.316
+2017,MIS,86,Indiana Univ Purdue Univ Indianapolis,USA,4,600,199,438,4.887,5.849
+2017,MIS,87,West Virginia Univ,USA,1,450,207,457,5.989,5.890
+2017,MIS,88,Ecole De Technologie Superieure,CAN,1,430,133,293,4.301,5.109
+2017,MIS,92,Kansas State Univ,USA,3,675,225,497,5.416,6.164
+2017,MIS,93,US Air Force Academy,USA,1,450,207,456,5.065,5.763
+2017,MIS,94,Stevens Inst of Tech,USA,4,600,274,605,5.079,5.665
+2017,MIS,96,Universite Du Quebec a Trois-Rivieres,CAN,4,600,202,446,4.650,5.304
+2017,MIS,97,Kettering Univ,USA,1,450,168,370,4.519,5.316
+2017,MIS,98,Univ of Puerto Rico-Mayaquez,USA,4,600,228,503,5.207,5.853
+2017,MIS,99,Cornell Univ,USA,4,600,186,411,4.122,5.293
+2017,MIS,100,Univ of British Columbia - Okangan,CAN,4,600,312,688,5.009,6.313
+2017,MIS,101,North Dakota State Univ,USA,1,510,251,554,5.504,6.728
+2017,MIS,102,Duke Univ,USA,4,600,199,438,4.665,5.310
+2017,MIS,103,Univ of Central Florida,USA,4,635,215,475,5.190,5.103
+2017,MIS,104,Univ of Evansville,USA,1,570,229,505,5.862,5.590
+2017,MIS,105,Univ of Minnesota - Twin Cities,USA,4,600,212,467,4.617,5.051
+2017,MIS,108,Washington State Univ,USA,4,600,233,514,6.295,5.937
+2017,MIS,109,Clemson Univ,USA,4,600,219,483,5.206,5.871
+2017,MIS,110,Univ of Manitoba,CAN,4,600,215,475,5.342,5.822
+2017,MIS,111,Univ of Michigan - Ann Arbor,USA,4,600,196,433,4.153,5.235
+2017,MIS,112,Ferris State University,USA,4,600,229,504,6.221,6.001
+2017,MIS,113,Central Michigan Univ,USA,4,600,225,495,4.492,5.827
+2017,MIS,114,Florida Inst of Tech,USA,4,600,235,519,4.825,6.765
+2017,MIS,115,Universidad Simon Bolivar,VEN,4,600,235,518,4.694,5.676
+2017,MIS,122,Penn State Univ - University Park,USA,4,600,207,456,4.730,5.443
+2017,MIS,123,Queen's Univ - Ontario Canada,CAN,4,600,230,507,5.235,5.495
+2017,MIS,124,North Carolina State Univ - Raleigh,USA,4,600,205,452,4.532,5.193
+2017,MIS,126,Univ of Waterloo,CAN,4,600,204,449,4.141,5.558
+2016,MIS,1,Oregon State Univ,US,1,450,147,325,4.354,4.735
+2016,MIS,2,Univ of Florida,US,4,600,202,445,4.279,5.268
+2016,MIS,3,Graz Technical Univ,AT,1,500,164,362,4.403,4.932
+2016,MIS,4,Kookmin Univ,KR,4,600,232,511,4.531,5.140
+2016,MIS,5,Univ of Michigan - Ann Arbor,US,4,600,191,421,5.900,5.701
+2016,MIS,6,Virginia Tech,US,1,450,174,384,4.643,5.033
+2016,MIS,7,National Univ of Singapore,SG,4,600,210,463,4.739,5.026
+2016,MIS,8,Univ of Michigan - Dearborn,US,2,500,200,441,4.352,4.973
+2016,MIS,11,Polytechnique Montréal,CA,1,450,189,417,4.753,5.460
+2016,MIS,12,FH - Joanneum Graz,AT,2,600,211,465,4.166,4.875
+2016,MIS,13,Faculdade de Engenharia de Sorocaba,BR,4,600,243,536,4.570,5.367
+2016,MIS,14,Universitat Stuttgart,DE,4,600,176,388,4.349,4.714
+2016,MIS,15,Univ of Wisconsin - Madison,US,1,600,177,390,4.514,5.117
+2016,MIS,16,Missouri University of Science and Tech,US,4,600,207,457,4.679,5.054
+2016,MIS,17,Universit Degli Studi Di Brescia,IT,2,550,196,432,4.778,5.473
+2016,MIS,18,Florida Atlantic Univ,US,4,600,221,487,4.306,5.446
+2016,MIS,19,Texas Tech Univ,US,1,450,195,430,5.208,5.478
+2016,MIS,20,Univ of Kansas - Lawrence,US,4,600,219,483,4.717,5.756
+2016,MIS,21,Univ of Victoria,CA,4,600,230,508,4.459,5.733
+2016,MIS,22,Univ of New Hampshire,US,1,450,206,454,5.477,5.792
+2016,MIS,23,Michigan State Univ,US,4,600,194,427,4.065,5.045
+2016,MIS,25,Central Michigan Univ,US,4,600,246,543,4.521,5.725
+2016,MIS,26,Univ of Central Florida,US,4,600,210,463,4.633,5.337
+2016,MIS,27,Lafayette College,US,1,450,223,492,5.644,7.349
+2016,MIS,32,Univ of Maryland - College Park,US,4,600,229,504,4.913,5.474
+2016,MIS,34,Louisiana State Univ,US,4,600,202,445,4.567,5.211
+2016,MIS,37,Penn State Univ - University Park,US,4,600,220,485,4.427,5.111
+2016,MIS,39,McGill Univ,CA,1,450,164,361,4.678,5.530
+2016,MIS,42,Univ of Pittsburgh - Pittsburgh,US,4,600,215,473,4.355,5.550
+2016,MIS,43,California Polytechnic State Univ-SLO,US,1,450,188,414,4.928,5.516
+2016,MIS,44,Clemson Univ,US,4,600,214,471,4.675,5.339
+2016,MIS,45,Queen's Univ - Ontario Canada,CA,4,600,218,481,4.608,6.576
+2016,MIS,47,The Ohio State University,US,4,600,199,439,4.562,5.082
+2016,MIS,48,Georgia Southern Univ,US,1,525,190,418,4.893,5.572
+2016,MIS,49,Tennessee Tech Univ,US,2,600,216,476,5.164,5.454
+2016,MIS,51,Purdue Univ - Calumet,US,4,600,283,623,6.187,5.981
+2016,MIS,52,Univ of Minnesota - Twin Cities,US,4,600,214,471,4.452,4.984
+2016,MIS,57,US Naval Academy,US,2,500,206,454,4.582,6.275
+2016,MIS,59,Univ of North Carolina - Charlotte,US,1,500,191,421,4.898,5.434
+2016,MIS,60,Washington Univ - St Louis,US,4,600,218,480,4.413,5.694
+2016,MIS,61,Rochester Institute of Technology,US,1,450,168,370,4.585,5.148
+2016,MIS,62,Universite de Sherbrooke,CA,2,500,219,482,4.646,5.778
+2016,MIS,65,US Air Force Academy,US,1,450,176,388,6.238,5.666
+2016,MIS,66,Kettering Univ,US,1,450,176,388,4.787,5.388
+2016,MIS,68,Hope College,US,4,600,312,688,5.438,5.547
+2016,MIS,69,Kennesaw State University,US,4,600,176,389,4.887,5.081
+2016,MIS,73,Florida International Univ,US,1,450,172,379,5.758,5.429
+2016,MIS,74,Univ of Cincinnati,US,1,450,185,408,4.768,5.093
+2016,MIS,76,Univ of Alabama - Tuscaloosa,US,4,600,226,498,4.956,5.523
+2016,MIS,77,Clarkson University,US,4,600,240,529,5.746,6.004
+2016,MIS,78,North Carolina State Univ - Raleigh,US,4,600,230,507,4.377,5.193
+2016,MIS,79,Villanova Univ,US,4,600,201,443,4.118,5.424
+2016,MIS,80,Univ of Texas - Arlington,US,4,600,216,476,4.216,5.190
+2016,MIS,81,Auburn Univ,US,4,600,191,421,4.103,5.015
+2016,MIS,82,Cooper Union,US,4,600,205,451,4.872,5.638
+2016,MIS,83,Univ of South Florida,US,1,450,167,368,4.440,5.649
+2016,MIS,85,Concordia University,CA,4,600,232,512,4.506,5.187
+2016,MIS,87,Univ of Missouri,US,4,600,212,467,4.743,5.268
+2016,MIS,88,Université Laval,CA,4,600,183,404,4.317,5.301
+2016,MIS,91,Georgia Institute of Technology,US,4,600,222,489,4.573,5.187
+2016,MIS,92,Wayne State Univ,US,4,600,211,465,4.990,5.643
+2016,MIS,93,Fachhochschule Hamburg,DE,4,600,205,453,4.330,5.017
+2016,MIS,94,Florida Inst of Tech,US,4,600,243,536,4.613,6.587
+2016,MIS,95,Columbia Univ,US,4,600,212,467,4.261,5.724
+2016,MIS,96,Michigan Tech Univ,US,2,500,217,478,4.580,5.359
+2016,MIS,97,Minnesota State University - Mankato,US,1,450,189,417,4.760,5.356
+2016,MIS,98,Embry-Riddle Aero Univ - Daytona Beach,US,4,600,219,483,4.448,5.616
+2016,MIS,99,Duke Univ,US,4,600,195,431,4.848,5.575
+2016,MIS,100,Saginaw Valley State Univ,US,4,600,206,455,4.406,5.227
+2016,MIS,101,Universidad Simon Bolivar,VE,4,600,231,509,5.285,5.192
+2016,MIS,105,Univ of Connecticut,US,4,600,205,452,4.392,5.580
+2016,MIS,107,Univ of Minnesota-Duluth,US,1,570,209,461,5.079,6.278
+2016,MIS,114,Universite Du Quebec-Chicoutimi,CA,2,500,205,452,4.939,5.861
+2016,MIS,115,Cornell Univ,US,4,600,192,423,4.168,5.203
+2016,MIS,116,Univ of Toledo,US,4,600,213,470,4.326,5.046
+2016,MIS,118,Univ of Waterloo,CA,4,600,211,465,5.767,5.915
+2016,MIS,120,Univ of Toronto,CA,1,450,161,355,4.802,5.560
+2016,MIS,121,Univ of Kentucky,US,4,600,241,531,4.567,6.077
+2016,MIS,122,Univ of British Columbia,CA,4,600,235,518,4.310,5.214
+2016,MIS,123,Kansas State Univ,US,1,450,192,423,6.321,5.608
+2016,MIS,124,South Dakota State Univ,US,4,600,213,470,4.416,5.148
+2016,MIS,128,San Jose State University,US,4,600,196,432,4.707,4.896
+2016,MIS,130,Ecole De Technologie Superieure,CA,1,450,146,322,4.797,4.891
+2016,MIS,132,Northwestern Univ,US,2,500,219,483,4.737,5.682
+2016,MIS,138,Univ of Akron,US,1,450,158,348,4.407,4.952
+2015,MIS,1,Oregon State Univ,US,1,450,156,345,4.546,5.817
+2015,MIS,5,Univ of Akron,US,1,450,171,378,4.499,5.395
+2015,MIS,7,Auburn Univ,US,4,600,178,392,4.496,5.737
+2015,MIS,8,Univ of Michigan - Ann Arbor,US,4,600,190,419,4.163,5.589
+2015,MIS,9,Univ of Florida,US,4,600,201,443,4.113,5.937
+2015,MIS,11,Universidade Estadual de Campinas,BR,4,600,207,457,4.152,5.709
+2015,MIS,12,Michigan State Univ,US,4,600,216,477,4.389,5.495
+2015,MIS,13,Univ of Wisconsin - Madison,US,1,605,174,383,4.856,5.652
+2015,MIS,15,Kettering Univ,US,1,450,155,342,5.018,5.707
+2015,MIS,16,Graz Technical Univ,AT,1,510,154,339,4.350,5.190
+2015,MIS,17,Univ of Toledo,US,4,600,207,456,4.624,6.524
+2015,MIS,18,San Jose State University,US,4,600,197,435,4.572,5.138
+2015,MIS,19,Ecole De Technologie Superieure,CA,1,480,151,333,5.576,5.189
+2015,MIS,20,Worcester Polytechnic Inst,US,2,500,234,515,6.394,6.671
+2015,MIS,21,Univ of Illinois - Urbana Champaign,US,4,600,216,477,4.445,5.900
+2015,MIS,22,US Naval Academy,US,2,500,214,472,4.848,6.259
+2015,MIS,25,Georgia Institute of Technology,US,4,600,215,473,4.965,6.374
+2015,MIS,26,Georgia Southern Univ,US,1,510,163,359,4.537,5.645
+2015,MIS,27,Louisiana State Univ,US,4,600,209,461,4.714,5.788
+2015,MIS,30,Univ of Missouri,US,4,600,207,456,4.786,6.033
+2015,MIS,31,Bradley Univ,US,2,500,220,486,4.944,6.173
+2015,MIS,32,Rose Hulman Inst of Tech,US,4,600,199,439,4.922,5.512
+2015,MIS,33,West Virginia Univ,US,1,450,208,459,5.059,6.527
+2015,MIS,36,Univ of North Florida,US,4,600,216,477,5.268,7.240
+2015,MIS,37,Univ of Connecticut,US,4,600,191,422,4.519,12.485
+2015,MIS,38,National Univ of Singapore,SG,4,600,214,471,4.114,5.832
+2015,MIS,40,Univ of Central Florida,US,4,600,202,445,4.812,6.008
+2015,MIS,43,Columbia Univ,US,4,600,219,482,4.743,6.141
+2015,MIS,45,Tennessee Tech Univ,US,1,570,256,565,5.815,6.223
+2015,MIS,48,Washington Univ - St Louis,US,4,600,218,481,4.667,6.094
+2015,MIS,49,Univ of Toronto,CA,1,450,164,361,5.381,6.163
+2015,MIS,50,Missouri University of Science and Tech,US,4,600,200,442,4.897,5.390
+2015,MIS,51,Univ of Cincinnati,US,1,475,172,380,5.209,5.820
+2015,MIS,53,Kookmin Univ,KR,4,600,210,463,4.436,5.452
+2015,MIS,55,Universidad Central de Venezuela,VE,1,450,205,453,5.956,6.588
+2015,MIS,56,Central Michigan Univ,US,4,600,268,590,5.010,6.309
+2015,MIS,59,Univ of Minnesota - Twin Cities,US,4,600,205,453,4.548,5.771
+2015,MIS,62,Ohio State Univ,US,4,600,186,410,4.822,5.606
+2015,MIS,63,Duke Univ,US,4,600,193,425,4.689,5.883
+2015,MIS,65,Minnesota State University - Mankato,US,1,450,205,451,5.192,6.146
+2015,MIS,66,North Carolina State Univ - Raleigh,US,4,600,220,486,5.279,6.095
+2015,MIS,68,Lakehead Univ,CA,4,600,247,545,4.749,6.201
+2015,MIS,70,Kennesaw State University,US,4,600,176,388,4.860,6.320
+2015,MIS,71,Univ of Pittsburgh - Pittsburgh,US,4,600,220,484,4.463,5.662
+2015,MIS,72,Univ of Michigan - Dearborn,US,2,500,207,457,4.587,5.721
+2015,MIS,73,Saginaw Valley State Univ,US,4,600,209,460,4.371,5.544
+2015,MIS,76,Universite Du Quebec a Trois-Rivieres,CA,4,600,202,445,4.883,5.693
+2015,MIS,77,Cegep du Vieux - Montreal,CA,4,600,207,456,4.940,6.236
+2015,MIS,78,Universite Du Quebec-Chicoutimi,CA,2,500,190,419,8.206,6.356
+2015,MIS,81,Universidad Simon Bolivar,VE,4,600,230,506,5.091,6.227
+2015,MIS,85,Villanova Univ,US,4,600,184,405,4.335,5.850
+2015,MIS,96,Penn State Univ - University Park,US,4,600,222,490,4.928,6.059
+2015,MIS,101,Wroclaw University of Technology,PL,4,600,218,481,4.268,5.811
+2015,MIS,103,Northwestern Univ,US,2,470,207,457,5.082,6.798
+2015,MIS,106,South Dakota State Univ,US,4,600,211,466,4.880,5.822
+2015,MIS,110,Virginia Tech,US,1,450,169,372,4.912,5.790
+2015,MIS,114,Michigan Tech Univ,US,2,500,211,465,4.657,6.063
+2015,MIS,115,Rochester Institute of Technology,US,1,450,164,361,4.944,5.518
+2015,MIS,117,Western University,CA,4,600,218,481,4.839,5.487
+2015,MIS,119,Univ of Victoria,CA,4,600,239,528,4.409,5.874
+2015,MIS,120,Univ of Maryland - College Park,US,4,600,226,499,4.652,5.828
+2015,MIS,122,Indiana Univ Purdue Univ Indianapolis,US,4,600,229,505,4.841,6.113
+2015,MIS,123,Florida Atlantic Univ,US,4,610,237,522,4.709,5.831
+2015,MIS,129,Univ of Texas - Arlington,US,1,450,179,395,4.969,5.882
+2015,MIS,134,Mississippi State Univ,US,4,600,230,506,5.450,6.077
+2014,MIS,1,Universitat Stuttgart,GER,4,600,172,380,4.465,5.034
+2014,MIS,3,Univ of Akron,USA,1,450,160,353,4.615,5.149
+2014,MIS,4,Ecole De Technologie Superieure,CAN,1,250,145,320,5.511,4.966
+2014,MIS,5,Université Laval,CAN,4,600,184,406,4.470,5.056
+2014,MIS,6,Cornell Univ,USA,4,600,194,427,4.459,5.087
+2014,MIS,8,Centro Universitario Da FEI,BRA,1,450,180,396,4.448,5.064
+2014,MIS,9,Michigan State Univ,USA,4,600,227,501,4.626,5.541
+2014,MIS,10,Univ of Florida,USA,4,600,196,432,4.547,5.262
+2014,MIS,11,Instituto Maua de Tecnologia,BRA,4,600,245,541,4.639,5.336
+2014,MIS,12,Auburn Univ,USA,4,600,175,386,4.445,5.314
+2014,MIS,13,Missouri University of Science and Tech,USA,4,600,205,452,4.479,5.145
+2014,MIS,14,Karlsruhe Institute of Technology,GER,2,595,198,437,5.091,5.077
+2014,MIS,15,Univ of Kansas - Lawrence,USA,4,600,210,463,4.350,5.217
+2014,MIS,17,Univ of Illinois - Urbana Champaign,USA,4,600,221,487,4.382,5.489
+2014,MIS,20,Univ of South Florida,USA,1,450,169,372,5.113,5.597
+2014,MIS,21,Technical Univ of Munich,GER,4,600,178,393,4.415,5.082
+2014,MIS,22,California State Poly Univ - Pomona,USA,4,600,192,423,4.566,5.303
+2014,MIS,23,Oregon State Univ,USA,1,450,162,357,4.462,4.847
+2014,MIS,25,Universidad Simon Bolivar,VEN,4,600,232,512,4.918,5.532
+2014,MIS,26,US Naval Academy,USA,2,450,180,396,5.450,6.101
+2014,MIS,31,Georgia Institute of Technology,USA,4,600,205,452,4.975,5.862
+2014,MIS,32,Univ of Minnesota - Twin Cities,USA,4,600,208,458,4.715,5.649
+2014,MIS,34,Carleton Univ,CAN,1,250,197,435,5.754,5.588
+2014,MIS,36,Univ of Michigan - Ann Arbor,USA,4,600,212,468,4.527,5.445
+2014,MIS,37,Univ of New Hampshire,USA,1,450,213,469,5.268,5.780
+2014,MIS,38,National Univ of Singapore,SIN,4,600,203,448,4.236,5.587
+2014,MIS,42,Villanova Univ,USA,4,600,196,433,4.830,5.816
+2014,MIS,43,San Jose State University,USA,4,600,204,449,4.482,5.246
+2014,MIS,44,Ohio State Univ,USA,4,600,194,428,4.410,5.349
+2014,MIS,45,Oklahoma State Univ,USA,1,450,173,381,4.822,5.640
+2014,MIS,46,Michigan Tech Univ,USA,1,510,191,422,5.003,5.911
+2014,MIS,47,Univ of Michigan - Dearborn,USA,2,500,205,451,4.817,5.537
+2014,MIS,48,Oakland University,USA,4,600,206,454,4.503,5.918
+2014,MIS,49,Minnesota State University - Mankato,USA,1,450,210,463,4.787,6.532
+2014,MIS,50,Saginaw Valley State Univ,USA,4,600,194,428,4.131,5.302
+2014,MIS,53,Queen's Univ - Ontario Canada,CAN,4,600,216,477,4.700,6.105
+2014,MIS,54,Florida Inst of Tech,USA,4,600,245,541,4.850,6.057
+2014,MIS,55,Cooper Union,USA,4,600,228,503,4.926,6.322
+2014,MIS,56,Univ of Oklahoma,USA,2,550,155,342,5.651,5.446
+2014,MIS,57,Univ of Toledo,USA,4,600,206,454,4.256,5.149
+2014,MIS,59,Dalhousie Univ,CAN,4,600,223,491,4.921,6.258
+2014,MIS,60,Univ of Western Ontario,CAN,4,600,218,481,4.304,5.080
+2014,MIS,62,Univ of Missouri,USA,4,600,221,488,4.347,5.098
+2014,MIS,64,Duke Univ,USA,4,600,221,487,4.383,5.864
+2014,MIS,65,Universite Du Quebec a Trois-Rivieres,CAN,4,600,206,455,4.560,5.416
+2014,MIS,66,Fachhochschule Hamburg,GER,4,600,204,450,4.518,4.950
+2014,MIS,67,Washington Univ - St Louis,USA,4,600,205,452,4.808,5.656
+2014,MIS,73,Universite Du Quebec-Chicoutimi,CAN,2,500,219,482,4.704,5.636
+2014,MIS,78,Western Michigan Univ,USA,1,450,212,468,5.854,8.440
+2014,MIS,79,Old Dominion Univ,USA,4,600,244,539,5.088,5.522
+2014,MIS,80,Kookmin Univ,KOR,4,600,224,493,4.448,5.447
+2014,MIS,81,Georgia Southern Univ,USA,1,510,197,435,4.788,5.663
+2014,MIS,82,Univ of Connecticut,USA,4,600,196,433,4.670,5.388
+2014,MIS,84,Purdue Univ - W Lafayette,USA,4,600,208,459,4.477,5.442
+2014,MIS,86,Southern Illinois Univ - Carbondale,USA,4,600,226,499,5.430,5.474
+2014,MIS,87,Kansas State Univ,USA,1,450,231,510,5.269,5.471
+2014,MIS,88,California Polytechnic State Univ-SLO,USA,1,450,202,445,4.782,5.362
+2014,MIS,89,Penn State Univ - University Park,USA,4,600,236,521,6.158,7.344
+2014,MIS,92,California State Univ - Long Beach,USA,4,600,265,585,4.784,5.765
+2014,MIS,93,York College of Pa,USA,4,600,216,477,4.835,6.630
+2014,MIS,94,West Virginia Univ,USA,4,600,262,577,5.117,6.204
+2014,MIS,96,Lehigh Univ,USA,1,450,178,392,5.312,5.494
+2014,MIS,98,Rose Hulman Inst of Tech,USA,4,600,226,499,5.147,5.625
+2014,MIS,100,Vanderbilt Univ,USA,1,450,165,363,5.941,5.582
+2014,MIS,102,North Carolina State Univ - Raleigh,USA,4,600,202,446,4.374,5.445
+2014,MIS,103,Univ of Evansville,USA,1,572,184,405,5.117,5.890
+2014,MIS,105,Mississippi State Univ,USA,4,600,258,569,5.540,5.399
+2014,MIS,108,Louisiana State Univ,USA,4,600,226,499,4.783,5.565
+2014,MIS,111,Univ of Manitoba,CAN,4,600,204,449,4.934,5.765
+2014,MIS,112,FH - Joanneum Graz,AUT,2,595,203,448,4.352,5.024
+2014,MIS,113,Univ of Wisconsin - Madison,USA,1,605,172,380,4.613,5.117
+2014,MIS,114,Virginia Tech,USA,1,450,167,368,4.759,5.268
+2014,MIS,116,Lafayette College,USA,1,450,207,457,5.836,5.700
+2014,MIS,120,Bradley Univ,USA,2,500,218,480,4.932,6.209
+2014,MIS,122,Rutgers Univ,USA,3,605,221,488,5.149,5.711
+2014,MIS,126,Univ of Waterloo,CAN,4,600,217,478,4.613,5.231
+2013,MIS,1,Oregon State Univ,USA,1,450,158,349,4.216,5.035
+2013,MIS,3,Universitat Stuttgart,GER,4,600,167,369,4.189,5.113
+2013,MIS,5,Univ of Michigan - Ann Arbor,USA,4,600,198,436,4.131,5.421
+2013,MIS,6,Graz Univ of Technology,AUT,1,510,155,342,4.491,5.354
+2013,MIS,8,Ecole De Technologie Superieure,CAN,1,450,148,327,4.068,4.901
+2013,MIS,10,Univ of Wisconsin - Madison,USA,1,605,156,344,4.350,5.162
+2013,MIS,11,Univ of Kansas - Lawrence,USA,4,600,203,448,4.139,5.603
+2013,MIS,13,Centro Universitario Da FEI,BRA,1,450,176,389,4.450,5.048
+2013,MIS,14,Missouri University of Science and Tech,USA,4,600,203,448,4.351,5.095
+2013,MIS,15,Michigan State Univ,USA,4,600,232,512,4.254,5.546
+2013,MIS,17,Universidad Simon Bolivar,VEN,4,600,215,475,4.397,5.425
+2013,MIS,18,US Air Force Academy,USA,1,510,182,402,5.379,5.861
+2013,MIS,21,Dalhousie Univ,CAN,4,600,230,506,4.875,5.754
+2013,MIS,22,North Carolina State Univ - Raleigh,USA,4,600,201,444,4.261,5.313
+2013,MIS,23,Univ of Central Florida,USA,4,600,212,468,4.721,5.858
+2013,MIS,25,Univ of Pittsburgh - Pittsburgh,USA,4,600,207,456,4.364,5.933
+2013,MIS,26,Queen's Univ - Ontario Canada,CAN,4,600,220,485,5.472,6.172
+2013,MIS,27,York College of Pa,USA,4,600,235,518,4.309,5.761
+2013,MIS,29,Purdue Univ - W Lafayette,USA,4,600,195,431,4.269,5.431
+2013,MIS,30,Universite Du Quebec-Chicoutimi,CAN,2,500,215,475,4.514,5.761
+2013,MIS,31,Univ of Toledo,USA,4,600,197,434,4.171,5.477
+2013,MIS,35,San Jose State University,USA,4,600,192,424,4.988,5.354
+2013,MIS,36,Univ of Minnesota - Twin Cities,USA,4,600,218,480,4.488,5.506
+2013,MIS,37,Lafayette College,USA,4,600,287,632,4.891,5.638
+2013,MIS,38,Oakland University,USA,4,600,199,439,4.470,5.923
+2013,MIS,39,Ohio State Univ,USA,4,600,215,473,4.592,5.414
+2013,MIS,42,Univ of Maryland - College Park,USA,1,450,206,455,4.788,5.242
+2013,MIS,47,Univ of North Florida,USA,4,600,239,526,5.610,6.128
+2013,MIS,48,Georgia Institute of Technology,USA,1,450,181,398,5.080,5.790
+2013,MIS,49,Univ of New Hampshire,USA,1,450,201,444,5.118,5.734
+2013,MIS,50,Univ of Akron,USA,1,450,159,350,4.442,5.066
+2013,MIS,51,Western Washington Univ,USA,4,600,214,472,4.695,5.746
+2013,MIS,53,Washington Univ - St Louis,USA,4,600,213,469,5.010,6.013
+2013,MIS,54,Univ of Maine,USA,2,550,197,435,5.208,6.398
+2013,MIS,58,Univ of Cincinnati,USA,1,450,172,380,4.660,5.660
+2013,MIS,63,Cooper Union,USA,4,600,232,511,5.938,7.902
+2013,MIS,64,Louisiana State Univ,USA,4,600,233,514,4.645,5.750
+2013,MIS,68,Universite Du Quebec a Trois-Rivieres,CAN,4,600,191,420,4.269,5.513
+2013,MIS,69,Lakehead Univ,CAN,4,600,239,527,5.401,5.941
+2013,MIS,71,Saginaw Valley State Univ,USA,4,600,196,433,4.044,5.501
+2013,MIS,72,Cegep du Vieux - Montreal,CAN,4,600,249,548,4.401,5.944
+2013,MIS,73,Universite Laval,CAN,4,600,200,440,4.137,5.210
+2013,MIS,74,Univ of Illinois - Urbana Champaign,USA,4,600,216,476,4.215,5.325
+2013,MIS,78,Univ of Windsor,CAN,4,600,212,467,4.472,5.567
+2013,MIS,79,Auburn Univ,USA,4,600,200,442,4.307,5.275
+2013,MIS,81,Georgia Southern Univ,USA,1,510,175,386,4.530,5.397
+2013,MIS,83,Colorado State University,USA,4,600,218,481,4.709,5.241
+2013,MIS,84,Cornell Univ,USA,4,600,186,411,3.830,5.371
+2013,MIS,85,National Univ of Singapore,SIN,2,550,168,371,4.659,5.336
+2013,MIS,86,Univ of Manitoba,CAN,4,600,204,450,5.655,6.046
+2013,MIS,89,Florida Atlantic Univ,USA,4,600,232,511,4.144,6.418
+2013,MIS,90,Arizona State Univ - Tempe,USA,4,600,237,522,6.757,6.202
+2013,MIS,93,Kookmin Univ,KOR,4,600,238,525,4.273,5.179
+2013,MIS,94,Portland State Univ,USA,4,600,226,499,4.430,5.521
+2013,MIS,95,Penn State Univ - University Park,USA,4,600,207,456,4.388,5.465
+2013,MIS,97,Rochester Institute of Technology,USA,1,450,149,329,4.972,5.137
+2013,MIS,99,Univ of Western Ontario,CAN,4,600,222,489,4.207,5.348
+2013,MIS,100,Clemson Univ,USA,4,600,234,516,4.586,5.525
+2013,MIS,101,Kettering Univ,USA,1,450,181,399,4.494,5.511
+2013,MIS,103,Univ of Florida,USA,4,600,202,445,4.269,5.444
+2013,MIS,106,Univ of Waterloo,CAN,4,600,226,498,4.693,5.807
+2013,MIS,107,Univ of Connecticut,USA,4,600,208,458,4.587,5.574
+2013,MIS,108,Mississippi State Univ,USA,4,600,272,600,6.469,5.630
+2013,MIS,109,Old Dominion Univ,USA,4,600,262,577,4.731,7.681
+2013,MIS,110,Kumoh National Institute of Technology,KOR,4,600,233,514,5.390,5.766
+2013,MIS,111,Bradley Univ,USA,2,500,219,482,5.245,6.712
+2013,MIS,113,Duke Univ,USA,4,600,211,466,4.478,5.618
+2013,MIS,115,Univ of Ontario Institute of Tech,CAN,1,450,172,379,6.113,6.324
+2013,MIS,118,Tallinn University of Technology,EST,4,600,216,476,4.082,5.122
+2013,MIS,121,RWTH Aachen Tech Univ,GER,4,600,199,439,4.366,5.208
+2013,MIS,128,Oklahoma State Univ,USA,1,510,184,406,4.723,5.732

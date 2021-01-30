@@ -1,7 +1,4 @@
-Year,Track,Car Num,Team,Country,"Engine 
-Cylinders","Engine 
-Displacement 
-(cc)",Weight (kg),Weight (lbs),Accel Score,Skidpad Score
+Year,Track,Car Num,Team,Country,"Engine Cylinders","Engine Displacement (cc)",Weight (kg),Weight (lbs),Accel Score,Skidpad Score
 2019,MIS,1,Universitat Stuttgart,DE,4,600,173.7,383,86.44,62.18
 2019,MIS,2,Graz Technical Univ,AT,1,510,155.1,342,89.82,58.19
 2019,MIS,5,Ecole De Technologie Superieure,CA,1,450,147.4,325,85.44,75.00

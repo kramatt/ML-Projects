@@ -1,7 +1,4 @@
-Year,Track,Car Num,Team,Country,"Engine 
-Cylinders","Engine 
-Displacement 
-(cc)",Weight (kg),Weight (lbs),Accel Best Time,Skidpad Best Time
+Year,Track,Car Num,Team,Country,"Engine Cylinders","Engine Displacement (cc)",Weight (kg),Weight (lbs),Accel Best Time,Skidpad Best Time
 2019,MIS,1,Universitat Stuttgart,DE,4,600,173.7,383,4.313,5.030
 2019,MIS,2,Graz Technical Univ,AT,1,510,155.1,342,4.261,5.085
 2019,MIS,5,Ecole De Technologie Superieure,CA,1,450,147.4,325,4.329,4.865

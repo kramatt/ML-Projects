@@ -50,12 +50,12 @@ results = []
 names = []
 for name, model in models:
     cv = KFold(n_splits=10, random_state=1, shuffle=True)
-    score = cross_val_score(model, X_train, Y_train, cv=cv, scoring='r2')
+    score = cross_val_score(model, X_train, Y_train, cv=cv, scoring='neg_mean_squared_error')
     results.append(score)
     names.append(name)
     print('%s: %f (%f)' % (name, score.mean(), score.std()))
 
 # Plot results
 plt.boxplot(results, labels=names, showmeans=True)
-#plt.savefig('Figures/accel_model_comparison.pdf')
+plt.savefig('Figures/accel_model_comparison_1.png')
 plt.show()

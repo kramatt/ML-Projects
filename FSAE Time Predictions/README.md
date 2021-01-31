@@ -21,15 +21,15 @@ published by the organizers of the competition, SAE International.
 ### Model Selection
 Spot checking the performance of some regressors using RMS error:
 
-![Some bad regressors](https://github.com/krmatt/ML-Projects/tree/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_1.png)
+![Some bad regressors](https://raw.githubusercontent.com/krmatt/ML-Projects/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_1.png)
 
 Removed SGD:
 
-![Still some bad ones](https://github.com/krmatt/ML-Projects/tree/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_2.png)
+![Still some bad ones](https://raw.githubusercontent.com/krmatt/ML-Projects/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_2.png)
 
 Removed GP and DT:
 
-![Still not great](https://github.com/krmatt/ML-Projects/tree/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_3.png)
+![Still not great](https://raw.githubusercontent.com/krmatt/ML-Projects/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_3.png)
 
 This model may be useful to teams in the initial design phase of their competition cycle. The vehicle characteristics that are considered by this model are deeply-rooted
 in a vehicle's design, and must be chosen early in the design process. Making an informed decision about these characteristics can be difficult,

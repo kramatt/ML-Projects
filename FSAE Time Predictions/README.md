@@ -27,7 +27,7 @@ Removed SGD:
 
 ![Still some bad ones](https://raw.githubusercontent.com/krmatt/ML-Projects/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_2.png)
 
-Removed GP and DT:
+Removed GP and Tree:
 
 ![Still not great](https://raw.githubusercontent.com/krmatt/ML-Projects/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_3.png)
 

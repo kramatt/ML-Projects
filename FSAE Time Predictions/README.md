@@ -23,14 +23,19 @@ Spot checking the performance of some regressors using RMS error:
 
 ![Some bad regressors](https://raw.githubusercontent.com/krmatt/ML-Projects/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_1.png)
 
-Removed SGD:
+Wow! Stochastic gradient descent performs exceptionally terribly here! Let's remove it.
 
 ![Still some bad ones](https://raw.githubusercontent.com/krmatt/ML-Projects/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_2.png)
 
-Removed GP and Tree:
+These are orders of magnitude better, but Gaussian Process and Decision Tree are still sticking out. Let's get rid of them, too.
 
 ![Still not great](https://raw.githubusercontent.com/krmatt/ML-Projects/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_3.png)
 
+The performance of these estimators is terrible. I would likely need to include some other important parameters that I don't have access to (tire size/compound, weather conditions, etc.) in order to get a really useful model.
+
+But this is just for fun and practice! So let's see how far I can get with hyperparameter tuning and ensemble methods.
+
+### Application
 This model may be useful to teams in the initial design phase of their competition cycle. The vehicle characteristics that are considered by this model are deeply-rooted
 in a vehicle's design, and must be chosen early in the design process. Making an informed decision about these characteristics can be difficult,
 especially for new teams who have limited experience and limited validation data from previous years.

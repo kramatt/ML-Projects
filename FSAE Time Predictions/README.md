@@ -15,6 +15,22 @@ in order to emulate a steady-state condition as closely as possible.
 The goal of this exercise is develop a model to correlate an FSAE car's basic specifications (weight, engine size & configuration, etc.) to an expected best time
 in the Acceleration and Skidpad events.
 
+I will be using [data from previous competitions](https://www.sae.org/attend/student-events/formula-sae-michigan/awards-results) ranging from 2013-2019
+published by the organizers of the competition, SAE International.
+
+### Model Selection
+Spot checking the performance of some regressors using RMS error:
+
+![Some bad regressors](https://github.com/krmatt/ML-Projects/tree/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_1.png)
+
+Removed SGD:
+
+![Still some bad ones](https://github.com/krmatt/ML-Projects/tree/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_2.png)
+
+Removed GP and DT:
+
+![Still not great](https://github.com/krmatt/ML-Projects/tree/master/FSAE%20Time%20Predictions/Figures/accel_model_comparison_3.png)
+
 This model may be useful to teams in the initial design phase of their competition cycle. The vehicle characteristics that are considered by this model are deeply-rooted
 in a vehicle's design, and must be chosen early in the design process. Making an informed decision about these characteristics can be difficult,
 especially for new teams who have limited experience and limited validation data from previous years.
@@ -22,9 +38,6 @@ especially for new teams who have limited experience and limited validation data
 It may also be useful to experienced teams who would like to explore the effects of changing key aspects of their design philosophy. Each team has a different
 (and constantly changing) set of priorities that they believe will give them the best competition result. This model may be used to see how a team's performance
 in these events may change if they change their engine configuration, or shed 10 kilos.
-
-I will be using [data from previous competitions](https://www.sae.org/attend/student-events/formula-sae-michigan/awards-results) ranging from 2013-2019
-published by the organizers of the competition, SAE International.
 
 ### Limitations
 - This model currently does not consider any tire, suspension, or aerodynamic characteristics, all of which have significant effects on performance in these events.

@@ -36,22 +36,22 @@ X_train, X_test = X_train.align(X_test, join='left', axis=1)
 
 
 # Tuning hyperparameters
-def get_score(n_estimators, X, y):
+def get_score(eta, X, y):
     # Inputs:
-    #   n_estimators to use for XGBoost model
+    #   eta to use for XGBoost model
     #   X array to use as model input features
     #   y array to use as model input labels
     # Returns:
     #   average RMSE over 3 cv folds of XGBoost model
     
-    model = XGBRegressor(n_estimators=n_estimators, random_state=0)
+    model = XGBRegressor(eta=eta, n_estimators=50, random_state=0)
     scores = -1 * cross_val_score(model, X, y, cv=3, n_jobs=-1, scoring='neg_mean_squared_error')
-    print(n_estimators, scores.mean())
+    print(eta, scores.mean())
     return scores.mean()
 
 cv_results = {}
-for i in range(10, 60, 10):
-    cv_results[i] = get_score(i, X_train, y_train)
+for i in range(10, 30, 5):
+    cv_results[i] = get_score(i/100, X_train, y_train)
 
 plt.plot(list(cv_results.keys()), list(cv_results.values()))
 plt.show()

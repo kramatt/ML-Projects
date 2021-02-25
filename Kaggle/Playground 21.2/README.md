@@ -41,4 +41,8 @@ The models were trained and evaluated with an 80/20 train/test split, a 3-fold c
   
   * **Best *eta* value: 0.2**
 
-**Result:** On the competition set, this model earned a score of 0.84825. The highest current score is 0.84100, and a perfect score would be 1.
+## Result
+
+On the competition set, this model earned a score of **0.84825**.
+
+The highest current score is 0.84100, and a perfect score would be 1.

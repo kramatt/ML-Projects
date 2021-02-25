@@ -49,25 +49,25 @@ def get_score(eta, X, y):
     print(eta, scores.mean())
     return scores.mean()
 
-cv_results = {}
-for i in range(10, 30, 5):
-    cv_results[i] = get_score(i/100, X_train, y_train)
-
-plt.plot(list(cv_results.keys()), list(cv_results.values()))
-plt.show()
+#cv_results = {}
+#for i in range(10, 30, 5):
+#    cv_results[i] = get_score(i/100, X_train, y_train)
+#
+#plt.plot(list(cv_results.keys()), list(cv_results.values()))
+#plt.show()
 
 # Create and fit model
-#model = XGBRegressor()
-#model.fit(X_train, y_train)
+model = XGBRegressor(n_estimators=50, eta=0.2, random_state=0)
+model.fit(X_train, y_train)
 
 
 # Make validiation predictions and calculate accuracy
-#valid_preds = model.predict(X_valid)
-#print('RMSE:', mean_squared_error(valid_preds, y_valid))
+valid_preds = model.predict(X_valid)
+print('RMSE:', mean_squared_error(valid_preds, y_valid))
 
 
 # Make test predictions and create .csv submission
-#test_preds = model.predict(X_test)
-#output = pd.DataFrame({'id': test_data.id, 'target': test_preds})
-#output.to_csv('../Submissions/submission_playground_21_2.csv', index=False)
-#print('Submission saved!')
+test_preds = model.predict(X_test)
+output = pd.DataFrame({'id': test_data.id, 'target': test_preds})
+output.to_csv('../Submissions/submission_playground_21_2.csv', index=False)
+print('Submission saved!')

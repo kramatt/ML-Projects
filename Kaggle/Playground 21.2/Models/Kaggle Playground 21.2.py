@@ -54,6 +54,9 @@ def get_score(eta, X, y):
 #    cv_results[i] = get_score(i/100, X_train, y_train)
 #
 #plt.plot(list(cv_results.keys()), list(cv_results.values()))
+#plt.xlabel('eta')
+#plt.ylabel('RMSE')
+#plt.title('RMSE for Varying Eta')
 #plt.show()
 
 # Create and fit model

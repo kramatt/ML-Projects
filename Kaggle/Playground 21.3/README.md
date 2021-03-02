@@ -13,6 +13,13 @@
 * No missing or mismatched values in any features. No need to impute values or drop features for lack of values.
 * Features have non-descriptive titles ('cat1', 'cont5', etc.). Can't use 'real-world' sense of the problem to decide which features are more or less important.
 
+```python
+print(train_data.head)
+```
+
+| id  | cat0 | cat1 | cat2 | cat3 | cat4 | cat5 | cat6 | cat7 | cat8 | cat9 | cat10 | cat11 | cat12 | cat13 | cat14 | cat15 | cat16 | cat17 | cat18 | cont0 | cont1 | cont2 | cont3 | cont4 | cont5 | cont6 | cont7 | cont8 | cont9 | cont10 |
+| --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ |
+
 ## Modeling
 
 **Selection:** 

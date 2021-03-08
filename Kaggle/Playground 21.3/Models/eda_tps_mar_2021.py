@@ -24,12 +24,15 @@ y = train_data.target
 
 X_test = test_data[features]
 
+print(train_data[0])
+print(train_data[1])
+
 # Histograms of continuous features
 #X.hist()
 #plt.show()
 
 # Histograms of categorical features
-X[cats].value_counts().plot(kind='bar')
+#X[cats].value_counts().plot(kind='bar')
 
 # Scatter matrix (distributions and relations between features)
 #scatter_matrix(X)
